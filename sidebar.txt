@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmt:home|Door43 (zmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmt|d43-zmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmt/archive/master.zip|d43-zmt.zip]]
+
+**Recent Changes**
+{{changes>ns = zmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmt|Ethnologue data]]
+
